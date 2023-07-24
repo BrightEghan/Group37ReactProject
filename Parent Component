@@ -28,3 +28,15 @@ const ParentComponent = () => {
             category: "dinner",
             description: "Indulge in our 'Italian Symphony' Pizza! Bursting with fresh, vibrant flavors, artisanal cheese, and handpicked herbs, each bite is a delicious journey to the heart of Italy. Crisp, cheesy, and oh-so-tempting!",
         },
+{
+            id: 4,
+            name: "Sandwich",
+            price: 100,
+            image: require('../assets/sandwich.jpg'),
+            category: "breakfast",
+            description: "Savor the flavor of our 'Fresh Harvest' Sandwich! Layered with crisp veggies, premium meats, and aromatic sauces, each bite will take you on a tantalizing journey. It's an unmissable treat for the tastebuds!"
+        },
+
+
+        
+    ];
