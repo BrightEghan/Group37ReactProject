@@ -40,3 +40,12 @@ const ParentComponent = () => {
 
         
     ];
+return (
+        <>
+            <Fooditems food={foodData} />
+            <Banner food={foodData} />
+        </>
+    );
+};
+
+export default ParentComponent;
