@@ -8,3 +8,15 @@ const ParentComponent = () => {
             id: 1,
             name: "Pizza",
             price: 250,
+ image: require('../assets/pizza.jpg'),
+            description: "Delicious, freshly-baked pizza with a variety of toppings",
+            category: "dinner"
+        },
+        {
+            id: 2,
+            name: "Burger",
+            price: 100,
+            image: require('../assets/burger.jpg'),
+            description: "Juicy, grilled burger with fresh lettuce, tomato, and our secret sauce",
+            category: "lunch"
+        },
