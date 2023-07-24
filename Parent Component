@@ -1,0 +1,10 @@
+import React from "react";
+import Fooditems from "./Fooditems"; 
+import Banner from "./Banner"; 
+
+const ParentComponent = () => {
+    const foodData = [
+        {
+            id: 1,
+            name: "Pizza",
+            price: 250,
