@@ -20,3 +20,11 @@ const ParentComponent = () => {
             description: "Juicy, grilled burger with fresh lettuce, tomato, and our secret sauce",
             category: "lunch"
         },
+ {
+            id: 2,
+            name: "Veg Pizza",
+            price: 120,
+            image: require('../assets/vegpizza.jpg'),
+            category: "dinner",
+            description: "Indulge in our 'Italian Symphony' Pizza! Bursting with fresh, vibrant flavors, artisanal cheese, and handpicked herbs, each bite is a delicious journey to the heart of Italy. Crisp, cheesy, and oh-so-tempting!",
+        },
